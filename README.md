@@ -2,7 +2,7 @@
 
 ## 📌 Visão Geral
 
-Este repositório contém as entregas organizadas em duas fases: **Trabalho 1 (Planejamento e Especificação)** e **Trabalho 2 (Desenvolvimento e Integração)**. Cada trabalho possui critérios específicos de avaliação e deve ser documentado e versionado neste repositório.
+Este repositório contém as entregas organizadas em duas fases: **Trabalho 1 (Planejamento e Especificação)** e **Trabalho 2 (Desenvolvimento e Integração)**. Cada trabalho possui critérios específicos de avaliação e deve ser documentado em um repositório no git. Você deve fazer o fork deste repositório para seguir o modelo. 
 
 ---
 
