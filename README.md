@@ -1,4 +1,4 @@
-# 📘 Especificação dos Trabalhos - Projeto de Desenvolvimento de Software
+# 📘 Especificação dos Trabalhos -  Desenvolvimento WEB
 
 ## 📌 Visão Geral
 
@@ -10,8 +10,10 @@ Este repositório contém as entregas organizadas em duas fases: **Trabalho 1 (P
 
 ### 📋 Descrição
 
-Esta fase foca na **ideação**, **documentação** e **prototipação** do projeto, com o objetivo de alinhar expectativas, definir requisitos e planejar o desenvolvimento do software. Tema do projeto é livre. Vamos dividir 
-o sistema em sistema de administração, no qual deve ter as funcionalidades básicas para edição e admiistração do sistema. Ex. criação de produtos, categorias, etc. E o sistema do usuário final que deve ser visualmente mais agradável. Todos devem seguir o padrão especificado no projeto de exemplo. 
+Esta fase foca na **ideação**, **documentação** e **prototipação** do projeto, com o objetivo de alinhar expectativas, definir requisitos e planejar o desenvolvimento do software. Tema do projeto é livre. 
+Vamos dividir o sistema em sistema de administração, no qual deve ter as funcionalidades básicas para edição e admistração do sistema(ex. criação de produtos, categorias, etc). 
+
+O sistema do usuário final que deve ser visualmente mais agradável. Todos devem seguir o padrão especificado no projeto de exemplo. 
 
 ### 📂 Itens Avaliativos
 
