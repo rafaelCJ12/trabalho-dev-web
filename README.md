@@ -2,6 +2,7 @@
 
 ## 📌 Visão Geral
 
+
 Este repositório contém as entregas organizadas em duas fases: **Trabalho 1 (Planejamento e Especificação)** e **Trabalho 2 (Desenvolvimento e Integração)**. Cada trabalho possui critérios específicos de avaliação e deve ser documentado em um repositório no git. Você deve fazer o fork deste repositório para seguir o modelo. 
 
 ---
@@ -30,7 +31,7 @@ O sistema do usuário final que deve ser visualmente mais agradável. Todos deve
 
 ### 📋 Descrição
 
-Esta etapa se concentra na **implementação funcional** do sistema, utilizando as definições feitas no Trabalho 1. O foco está na construção do backend, integração com o frontend, usabilidade e segurança.
+Esta etapa se concentra na **implementação funcional** do sistema, utilizando as definições feitas no Trabalho 1. O foco está na construção do backend, integração com o frontend, usabilidade e segurança. Implementação das 10 funcionalidades do sistema. 
 
 ### 📂 Itens Avaliativos
 
