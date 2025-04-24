@@ -48,7 +48,7 @@ Esta etapa se concentra na **implementação funcional** do sistema, utilizando 
 
 ```bash
 📁 projeto/
-├── 📁 docs/                  # Documentação do projeto (PMC,etc.)
+├── 📁 docs/                  # Documentação do projeto (PMC, etc.)
 ├── 📁 frontend/              # Código-fonte da interface do usuário
 ├── 📁 backend/               # Código-fonte da API/servidor
 ├── 📁 prototipos/            # Arquivos de protótipos de tela (PDF, Figma, imagens)
@@ -63,5 +63,5 @@ Esta etapa se concentra na **implementação funcional** do sistema, utilizando 
 
 | Entrega | Data Limite |
 |--------|-------------|
-| Trabalho 1 | _[Data definida pelo professor]_ |
-| Trabalho 2 | _[Data definida pelo professor]_ |
+| Trabalho 1 | 26/05 |
+| Trabalho 2 | 30/06|
