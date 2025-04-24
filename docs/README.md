@@ -78,3 +78,9 @@ Strapi, HTML, CSS, SQLITE....
 
 ---
 
+### Telas do sistema
+
+![alt text](tela1-1.png)
+**Figura 2**: Tela de listagem de produtos com imagem, nome e preço — correspondente à história de usuário HU-1.
+
+
