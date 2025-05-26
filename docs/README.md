@@ -6,7 +6,7 @@
 
 ## 🧾 Visão Geral
 
-Este projeto visa o desenvolvimento de um sistema de pedidos online. O sistema permite que clientes visualizem produtos, adicionem ao carrinho, finalizem compras e acompanhem pedidos. A seguir, detalhamos os principais artefatos exigidos para a entrega.
+ Desenvolver um sistema Web para uso em caixas de supermercado, permitindo o cadastro de produtos e criação de compras.
 
 ---
 
@@ -14,16 +14,16 @@ Este projeto visa o desenvolvimento de um sistema de pedidos online. O sistema p
 
 | ID    | Prioridade | História de Usuário                                                                 |
 |-------|------------|--------------------------------------------------------------------------------------|
-| HU-1  | 1️⃣         | **No papel de cliente**, desejo **visualizar uma lista de produtos com imagem e preço**, para poder escolher o que desejo comprar. |
-| HU-2  | 2️⃣         | **No papel de cliente**, desejo **filtrar os produtos por categoria**, para encontrar mais rapidamente o que procuro. |
-| HU-3  | 3️⃣         | **No papel de cliente**, desejo **adicionar um produto ao carrinho**, para organizar minha compra antes de finalizar. |
-| HU-4  | 4️⃣         | **No papel de cliente**, desejo **visualizar os itens no meu carrinho com totais**, para acompanhar o valor da compra. |
-| HU-5  | 5️⃣         | **No papel de cliente**, desejo **remover ou alterar a quantidade de itens no carrinho**, para ajustar minha compra. |
-| HU-6  | 6️⃣         | **No papel de cliente**, desejo **finalizar o pedido com um clique**, para concluir minha compra com rapidez. |
-| HU-7  | 7️⃣         | **No papel de cliente**, desejo **ver uma confirmação visual do pedido após finalizar**, para ter certeza que deu tudo certo. |
-| HU-8  | 8️⃣         | **No papel de cliente**, desejo **me autenticar com login e senha**, para acessar meu histórico de pedidos e carrinho. |
-| HU-9  | 9️⃣         | **No papel de cliente**, desejo **visualizar o histórico de pedidos realizados**, para acompanhar minhas compras anteriores. |
-| HU-10 | 🔟         | **No papel de administrador**, desejo **visualizar todos os pedidos realizados**, para acompanhar e organizar a entrega. |
+| HU-1  | 1️⃣         | **No papel de funcionário**, desejo **cadastrar produtos na base de dados do sistema**. |
+| HU-2  | 2️⃣         | **No papel de funcionário**, desejo **listar os produtos do mercado**, para saber o que há no estoque. |
+| HU-3  | 3️⃣         | **No papel de funcionário**, desejo **ser adicionado ao sistema**, para usá-lo. |
+| HU-4  | 4️⃣         | **No papel de funcionário**, desejo **criar uma compra**, para ser levada por um cliente. |
+| HU-5  | 5️⃣         | **No papel de funcionário**, desejo **adicionar produtos a uma compra**, de um cliente. |
+| HU-6  | 6️⃣         | **No papel de funcionário**, desejo **excluir um item de uma compra**, caso haja um erro de inserção ou desistência da compra de um produto. |
+| HU-7  | 7️⃣         | **No papel de gerente**, desejo **listar as compras feitas no mercado**, para saber como andam as vendas. |
+| HU-8  | 8️⃣         | **No papel de gerente**, desejo **listar itens de uma compra**, para consultas de histórico. |
+| HU-9  | 9️⃣         | **No papel de funcionário**, desejo **fazer login no sistema**, para usá-lo. |
+| HU-10 | 🔟         | **No papel de gerente**, desejo **consultar as compras nas quais um fucnionário foi responsável**, para fins de auditoria. |
 
 ---
 
@@ -33,7 +33,7 @@ Cada funcionalidade descrita no backlog possui ao menos uma tela representando s
 
 ### 🖼️ Protótipo do Requisito HU-1
 
-![Protótipo da tela de listagem de produtos](wireframe1.png)
+![Protótipo da tela de listagem de produtos](tela1.jpeg)
 **Figura 1**: Tela de listagem de produtos com imagem, nome e preço — correspondente à história de usuário HU-1.
 
 ---
