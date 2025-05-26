@@ -31,10 +31,25 @@
 
 Cada funcionalidade descrita no backlog possui ao menos uma tela representando sua interface esperada.
 
-### 🖼️ Protótipo do Requisito HU-1
+### 🖼️ Protótipo do Requisito HU-9
 
-![Protótipo da tela de listagem de produtos](tela1.jpeg)
-**Figura 1**: Tela de listagem de produtos com imagem, nome e preço — correspondente à história de usuário HU-1.
+![Protótipo da tela de login no sistema](tela1.jpeg)
+**Figura 1**: Tela de login no sistema — correspondente à história de usuário HU-9.
+
+### 🖼️ Protótipo do Requisito HU-2
+
+![Protótipo da tela de consulta de produtos](tela2.jpeg)
+**Figura 2**: Tela de consulta de produtos — correspondente à história de usuário HU-2.
+
+### 🖼️ Protótipo do Requisito HU-5
+
+![Protótipo da tela de adicionar produtos a uma compra](tela3.jpeg)
+**Figura 2**: Tela de produtos a uma compra — correspondente à história de usuário HU-5.
+
+### 🖼️ Protótipo do Requisito HU-9 e HU-10
+
+![Protótipo da tela de consulta de compras](tela3.jpeg)
+**Figura 2**: Tela de compras feitas — correspondente às histórias de usuário HU-9 e HU-10.
 
 ---
 
