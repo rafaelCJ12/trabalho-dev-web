@@ -44,12 +44,12 @@ Cada funcionalidade descrita no backlog possui ao menos uma tela representando s
 ### 🖼️ Protótipo do Requisito HU-5
 
 ![Protótipo da tela de adicionar produtos a uma compra](tela3.jpeg)
-**Figura 2**: Tela de produtos a uma compra — correspondente à história de usuário HU-5.
+**Figura 3**: Tela de adicionar produtos a uma compra — correspondente à história de usuário HU-5.
 
 ### 🖼️ Protótipo do Requisito HU-9 e HU-10
 
 ![Protótipo da tela de consulta de compras](tela3.jpeg)
-**Figura 2**: Tela de compras feitas — correspondente às histórias de usuário HU-9 e HU-10.
+**Figura 4**: Tela de compras feitas — correspondente às histórias de usuário HU-9 e HU-10.
 
 ---
 
