@@ -59,7 +59,7 @@ O projeto  do sistema
 
 ### Modelo 
 
-![alt text](image-1.png)
+![alt text](Conceitual_devWeb.png)
 
 ### Esboço da arquitetura geral (cliente-servidor)
 
