@@ -68,34 +68,11 @@ O projeto  do sistema
 
 
 ### Autorização  e Autenticação 
-A autorização no Strapi (a partir do v4 e mantida no v5) é baseada em perfis de usuários (roles) e permissões atribuídas a esses perfis. Ela define o que cada usuário pode ou não pode fazer ao interagir com os endpoints da API.
+Somente usuários autorizados podem interagir com os endpoints da api. Para tanto o token JWT é usado para acesso autenticado.
 
-1. Tipos de usuários
-O Strapi tem dois contextos principais de usuários:
-
-🔹 Usuários Autenticados
-Criados via cadastro/login na API pública.
-
-Associados a uma role do tipo “Authenticated” ou outra personalizada.
-
-Usam token JWT para acesso autenticado.
-
-🔸 Usuários Administrativos
-Criados via painel de administração do Strapi.
-
-Usam o Strapi Admin Panel.
-
-Gerenciados separadamente e com permissões diferentes.
 
 
 ### Tecnologias a serem utilizadas 
-Strapi, HTML, CSS, SQLITE....
+SpringBoot, HTML, CSS, PostgreSQL....
 
 ---
-
-### Telas do sistema
-
-![alt text](tela1-1.png)
-**Figura 2**: Tela de listagem de produtos com imagem, nome e preço — correspondente à história de usuário HU-1.
-
-
